@@ -1,7 +1,7 @@
 ## Olá, sou o Gustavo Vilarino 👋
 
-**`Desenvolvedor de Software`**
-Me chamo Gustavo Vilarino, tenho 29 anos e sou natural de Minas Gerais. Concluí o ensino médio no Colégio Cotemig, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na PUC Minas. Sou apaixonado por programação e adoro resolver desafios utilizando a lógica e a criatividade. Tenho interesse especial no desenvolvimento web e estou em constante busca por aprimoramento técnico, participando de projetos práticos e estudando novas tecnologias. 
+**`Desenvolvedor .NET`**
+Me chamo Gustavo Vilarino, tenho 29 anos e sou natural de Minas Gerais. Concluí o ensino médio no Colégio Cotemig, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na PUC Minas. Sou apaixonado por programação e adoro resolver desafios utilizando a lógica e a criatividade. Tenho interesse especial no desenvolvimento .NET e estou em constante busca por aprimoramento técnico, participando de projetos práticos e estudando novas tecnologias. 
 
 ### 🤖 Linguagens e Tecnologias
 
